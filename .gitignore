@@ -130,3 +130,6 @@ dmypy.json
 
 # JetBrains
 .idea/
+
+# Program resources
+/data/words_to_learn.csv
