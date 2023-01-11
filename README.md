@@ -1,3 +1,3 @@
-# Flashcards
+# German Flashcards
 
-This is a flashcard program to help with studying, in this case a new language
+A flashcard program to help learn German's 1000 most frequent words
